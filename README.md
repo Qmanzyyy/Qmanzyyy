@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 👀 I’m interested in Code a little bit 🤏<br>- 🌱 I’m currently learning Some language<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: I always using GPT
+- 👋 Hey there <br>
+- 👀 I’m interested in Code a little bit 🤏<br>- 🌱 I’m currently learning Some language<br>
+- 😄 Pronouns: He/Him<br>
+- ⚡ Fun fact: I always using GPT
 
 
 ## 🌐 Socials:
