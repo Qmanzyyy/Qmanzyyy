@@ -14,10 +14,6 @@
 
 ---
 <!-- snake graph -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Haisyam/Haisyam/blob/main/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/Haisyam/Haisyam/blob/main/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/Haisyam/Haisyam/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-</div>
+
+
+<img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/9b2cf530-e1f5-478e-84f4-f825e118136e" />
