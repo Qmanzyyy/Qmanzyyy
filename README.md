@@ -15,11 +15,11 @@
 ## 💫 Tentang Aku
 
 ```
-🎮  Nama    : Miftahurrahman
+🎮  Nama    : Miftahur Rahman
 👀  Minat   : Ngulik kode dikit-dikit 🤏
-🌱  Belajar : Berbagai bahasa pemrograman
+🌱  Belajar : Berbagai Bahasa
 😄  Pronoun : He/Him
-⚡  Fakta   : Bukan programmer... tapi siapa yang tahu? 😏
+⚡  Fakta   : Ingin Menjadi Programmer Handal Namun Enggan Ngoding
 ```
 
 ---
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 Statistik GitHub
+## Ular makan Statistik Ku
 
 <p align="center">
   <picture>
@@ -85,7 +85,7 @@
 
 ---
 
-## 📈 Grafik Aktivitas
+## Grafik Malas Ngoding
 
 <div align="center">
 
@@ -101,6 +101,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Miftahurrhmn/count.svg) -->
 
-*"Bukan programmer... tapi kodenya jalan juga kok!"* 😄
+*" yang penting kodenya jalan!"* 😄
 
 </div>
