@@ -71,7 +71,7 @@
   </picture>
 </p>
 
-> Catatan: Animasi 'snake' (pacman) dinonaktifkan karena file output mungkin belum tersedia di branch `output`. Workflow `.github/workflows/snake.yml` tampak valid — action Platane/snk mendukung opsi pada `outputs` (misal `?palette=github-dark`). Jalankan workflow untuk menghasilkan file SVG di branch `output`.
+<!-- Catatan: Animasi 'snake' (pacman) dinonaktifkan karena file output mungkin belum tersedia di branch `output`. Workflow `.github/workflows/snake.yml` tampak valid — action Platane/snk mendukung opsi pada `outputs` (misal `?palette=github-dark`). Jalankan workflow untuk menghasilkan file SVG di branch `output`.
 
 <!-- ---
 
