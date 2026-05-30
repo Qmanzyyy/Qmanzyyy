@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, Aku Miftahurrahman! 👋
+# Halo, Aku Miftahur Rahman! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Selamat+Datang+di+Profilku!;Lagi+Belajar+Ngoding+Dikit-dikit;Bukan+Programmer...+tapi+Mencoba!)](https://git.io/typing-svg)
 
