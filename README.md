@@ -63,12 +63,13 @@
 
 ## 📊 Statistik GitHub
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Miftahurrhmn&theme=tokyonight&hide_border=true&show_icons=true&locale=id" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miftahurrhmn&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miftahurrhmn/Miftahurrhmn/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miftahurrhmn/Miftahurrhmn/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Miftahurrhmn/Miftahurrhmn/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 > Catatan: Animasi 'snake' (pacman) dinonaktifkan karena file output mungkin belum tersedia di branch `output`. Workflow `.github/workflows/snake.yml` tampak valid — action Platane/snk mendukung opsi pada `outputs` (misal `?palette=github-dark`). Jalankan workflow untuk menghasilkan file SVG di branch `output`.
 
