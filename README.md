@@ -61,7 +61,7 @@
 
 ---
 
-## Ular makan Statistik Ku
+## 🐍 Ular makan Statistik Github
 
 <p align="center">
   <picture>
@@ -85,7 +85,7 @@
 
 ---
 
-## Grafik Malas Ngoding
+## 📈 Grafik Malas Ngoding
 
 <div align="center">
 
